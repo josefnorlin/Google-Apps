@@ -59,7 +59,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>"/applications/Google Chrome.app/Contents/MacOS/Google Chrome" --app=https://keep.google.com</string>
+					<string>"/applications/Google Chrome.app/Contents/MacOS/Google Chrome" --app=https://gmail.com</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
@@ -84,7 +84,7 @@
 				<key>Class Name</key>
 				<string>RunShellScriptAction</string>
 				<key>InputUUID</key>
-				<string>7B94D41C-0F34-4015-A144-73B97598E3F7</string>
+				<string>18D97D08-3EED-4C77-AB64-B8B5CD40316E</string>
 				<key>Keywords</key>
 				<array>
 					<string>Shell</string>
@@ -94,9 +94,9 @@
 					<string>Unix</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>7E3D610A-532E-45D1-964C-D9C8F3DF196C</string>
+				<string>2E7B8A6B-E02A-483D-8AC2-2BCE1388D356</string>
 				<key>UUID</key>
-				<string>DCBD341E-A6AB-4F19-9897-2776D8F5CC54</string>
+				<string>F40C609D-B85F-414E-8285-E06AE8C3A370</string>
 				<key>UnlocalizedApplications</key>
 				<array>
 					<string>Automator</string>
